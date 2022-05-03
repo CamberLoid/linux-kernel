@@ -91,7 +91,6 @@ allOf:
       properties:
         dmas:
           minItems: 1
-          maxItems: 2
           items:
             - description: RX DMA Channel
             - description: TX DMA Channel
